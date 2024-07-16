@@ -61,8 +61,6 @@ Model Evaluation and Tuning:
 
 Model Deployment:
 • Save the trained model for future predictions.
-• Develop a simple user interface (UI) for users to input features and get housing price
-predictions.
 
 6. Tools and Technologies:
    
@@ -77,8 +75,7 @@ predictions.
    
 A linear regression model capable of predicting housing prices with reasonable accuracy. The
 model's performance will be evaluated based on the chosen metrics, and it will be fine-tuned
-to achieve the best possible results. Additionally, a simple UI will be developed to
-demonstrate the model's predictions in a user-friendly manner.
+to achieve the best possible results.
 
 8. Conclusion:
     
